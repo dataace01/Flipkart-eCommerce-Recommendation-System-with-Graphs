@@ -6,12 +6,8 @@
 
 There are hundreds of eCommerce websites with millions of products listed.
 Personalizing the content is much needed to engage the user with the platform. This is
-where recommendation systems come into the picture. You must have heard about
-some recommendation systems such as Content-Based, Collaborative filtering, etc. In
-recent years Graph, Learning-based Recommendation systems have witnessed fast
-development.
-This project aims to give you a brief idea about recommendation systems and how they
-work. Moreover, I build a recommendation system using Graph-based learning for an
+where recommendation systems come into the picture.
+I build a recommendation system using Graph-based learning for an
 eCommerce platform.
 
 # Aim:
@@ -22,9 +18,7 @@ the users in e-commerce platforms depending on their purchase and search history
 # Data Overview :
 
 The dataset contains user information over 9 attributes for an eCommerce website
-Link to download the data:
-https://drive.google.com/file/d/1XfXqenvh2bws8g20sPK4Ti78_M9C0LF-/view?usp=shari
-ng
+
 Tech Stack:
 - Language: Python
 - Packages: DuckDB, pandas, Numpy

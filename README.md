@@ -1,4 +1,13 @@
 # Graph-Based-Recommendation-System-in-Python
+## Problem Statement
+Flipkart is one of the largest eCommerce platforms with millions of products listed, 100M+ downloads, and millions of daily active users (DAU). 
+To improve user experience with personalization, platform diversity, and boost sales a state-of-the-art recommendation system is much needed.
+
+## Liner(Goal): Build a recommendation system for an eCommerce platform. 
+Business Objective
+- Improve user experience with personalization
+- Improve platform diversity and discovery of long-tail products
+
 
 # Project Overview
 
